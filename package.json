@@ -1,0 +1,18 @@
+{
+  "name": "prettier-config-leopoldhub",
+  "version": "1.0.0",
+  "description": "my personnal prettier configuration",
+  "main": ".prettierrc.js",
+  "author": "leopoldhub",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopoldhub/prettier-config-leopoldhub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leopoldhub/prettier-config-leopoldhub/issues"
+  },
+  "homepage": "https://github.com/leopoldhub/prettier-config-leopoldhub#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
